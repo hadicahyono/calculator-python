@@ -43,4 +43,4 @@ while user_input not in ["exit"]: # type exit to stop the loop
     feedback = "The answer is"
     output = calc.calculate(user_input)
     print(feedback, output)
-print("Stopping the calculator...")
+print("Thank you for using our awesome calculator")
